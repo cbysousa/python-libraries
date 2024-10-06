@@ -1,2 +1,2 @@
-# python-libraries
-python-libraries
+# Explorando bibliotecas Python
+
